@@ -11,7 +11,7 @@ body{
 .header {
 	width: 1440px;
 	height: 1800px;
-	background: url("/img/dog1.webp") no-repeat;
+	background: url("../img/dog1.webp") no-repeat;
 	margin: 0 auto;
 	position: relative;
 }
